@@ -261,8 +261,8 @@
       "is_full": false
     },
     "BAHKM_4H": {
-      "time": "2026-06-24T14:00:00",
-      "price": 114.1,
+      "time": "2026-06-25T06:00:00",
+      "price": 113.7,
       "is_full": false
     },
     "BERA_4H": {
@@ -286,8 +286,8 @@
       "is_full": false
     },
     "CEMZY_4H": {
-      "time": "2026-06-23T14:00:00",
-      "price": 15.01,
+      "time": "2026-06-25T06:00:00",
+      "price": 14.19,
       "is_full": false
     },
     "ELITE_4H": {
@@ -507,7 +507,11 @@
     },
     "AVOD_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 4.27,
+=======
+      "price": 4.25,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "DAPGM_4H": {
@@ -1002,26 +1006,44 @@
     },
     "BJKAS_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 1.63,
+=======
+      "price": 1.62,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "CEOEM_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 25.92,
+=======
+      "price": 25.76,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "EREGL_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 40.32,
       "is_full": false
     },
     "FRMPL_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 37.5,
+=======
+      "price": 40.28,
+      "is_full": false
+    },
+    "FROTO_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 87.7,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "HLGYO_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 6.54,
       "is_full": false
     },
@@ -1033,15 +1055,28 @@
     "KCAER_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 15.46,
+=======
+      "price": 6.53,
+      "is_full": false
+    },
+    "KCAER_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 15.45,
+>>>>>>> Stashed changes
       "is_full": true
     },
     "LILAK_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 37.04,
+=======
+      "price": 36.96,
+>>>>>>> Stashed changes
       "is_full": false
     },
     "LKMNH_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 15.18,
       "is_full": false
     },
@@ -1068,6 +1103,14 @@
     "ZEDUR_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 9.62,
+=======
+      "price": 15.15,
+      "is_full": false
+    },
+    "MARMR_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 2.3,
+>>>>>>> Stashed changes
       "is_full": false
     }
   },
@@ -1106,7 +1149,11 @@
     },
     "EGPRO_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 44.28
+=======
+      "price": 44.0
+>>>>>>> Stashed changes
     },
     "GIPTA_4H": {
       "time": "2026-06-23T10:00:00",
@@ -1194,7 +1241,11 @@
     },
     "BALSU_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 19.52
+=======
+      "price": 19.59
+>>>>>>> Stashed changes
     },
     "BORLS_4H": {
       "time": "2026-06-24T06:00:00",
@@ -1218,7 +1269,11 @@
     },
     "KTSKR_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 108.9
+=======
+      "price": 109.2
+>>>>>>> Stashed changes
     },
     "OSMEN_4H": {
       "time": "2026-06-25T06:00:00",
@@ -1261,8 +1316,8 @@
       "price": 91.5
     },
     "MGROS_4H": {
-      "time": "2026-06-24T06:00:00",
-      "price": 700.0
+      "time": "2026-06-25T06:00:00",
+      "price": 707.5
     },
     "TCKRC_4H": {
       "time": "2026-06-24T06:00:00",
@@ -1322,7 +1377,11 @@
     },
     "DENGE_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 2.65
+=======
+      "price": 2.64
+>>>>>>> Stashed changes
     },
     "GLRYH_4H": {
       "time": "2026-06-24T14:00:00",
@@ -1366,7 +1425,11 @@
     },
     "AKBNK_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 81.3
+=======
+      "price": 81.1
+>>>>>>> Stashed changes
     },
     "ANHYT_4H": {
       "time": "2026-06-25T06:00:00",
@@ -1374,6 +1437,7 @@
     },
     "DOCO_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 12132.5
     },
     "ELITE_4H": {
@@ -1383,6 +1447,17 @@
     "GLBMD_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 13.68
+=======
+      "price": 12052.5
+    },
+    "ELITE_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 37.16
+    },
+    "GLBMD_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 13.63
+>>>>>>> Stashed changes
     },
     "HATEK_4H": {
       "time": "2026-06-25T06:00:00",
@@ -1390,6 +1465,7 @@
     },
     "HUNER_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 3.97
     },
     "ISMEN_4H": {
@@ -1427,6 +1503,41 @@
     "USAK_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 1.73
+=======
+      "price": 3.96
+    },
+    "ISMEN_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 37.36
+    },
+    "KATMR_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 2.77
+    },
+    "KCAER_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 15.45
+    },
+    "KCHOL_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 196.9
+    },
+    "MOGAN_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 14.92
+    },
+    "OTKAR_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 360.5
+    },
+    "PAPIL_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 15.28
+    },
+    "USAK_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 1.71
+>>>>>>> Stashed changes
     }
   },
   "last_sent_new_scan": {
@@ -1584,7 +1695,11 @@
     },
     "USAK_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 1.73
+=======
+      "price": 1.71
+>>>>>>> Stashed changes
     },
     "HOROZ_4H": {
       "time": "2026-06-24T10:00:00",
@@ -1624,6 +1739,7 @@
     },
     "AKENR_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 13.54
     },
     "DENGE_4H": {
@@ -1645,12 +1761,35 @@
     "SKBNK_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 17.09
+=======
+      "price": 13.49
+    },
+    "DENGE_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 2.64
+    },
+    "GLBMD_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 13.63
+    },
+    "HUNER_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 3.96
+    },
+    "OZYSR_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 12.31
+>>>>>>> Stashed changes
     }
   },
   "last_sent_rsi_macd": {
     "AKENR_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 13.54
+=======
+      "price": 13.49
+>>>>>>> Stashed changes
     },
     "BRKVY_4H": {
       "time": "2026-06-23T10:00:00",
@@ -1730,7 +1869,11 @@
     },
     "GEDIK_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 7.58
+=======
+      "price": 7.56
+>>>>>>> Stashed changes
     },
     "INVEO_4H": {
       "time": "2026-06-24T06:00:00",
@@ -1818,7 +1961,11 @@
     },
     "OZYSR_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 12.34
+=======
+      "price": 12.31
+>>>>>>> Stashed changes
     },
     "ECOGR_4H": {
       "time": "2026-06-24T14:00:00",
@@ -1830,7 +1977,11 @@
     },
     "ICUGS_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 5.67
+=======
+      "price": 5.68
+>>>>>>> Stashed changes
     },
     "IDGYO_4H": {
       "time": "2026-06-25T06:00:00",
@@ -1866,6 +2017,7 @@
     },
     "DENGE_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 2.65
     },
     "DURKN_4H": {
@@ -1883,6 +2035,21 @@
     "GRSEL_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 310.0
+=======
+      "price": 2.64
+    },
+    "ELITE_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 37.16
+    },
+    "GLBMD_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 13.63
+    },
+    "GRSEL_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 309.5
+>>>>>>> Stashed changes
     },
     "HATEK_4H": {
       "time": "2026-06-25T06:00:00",
@@ -1890,7 +2057,11 @@
     },
     "HUNER_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 3.97
+=======
+      "price": 3.96
+>>>>>>> Stashed changes
     },
     "KATMR_4H": {
       "time": "2026-06-25T06:00:00",
@@ -1898,6 +2069,7 @@
     },
     "OTKAR_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 360.75
     },
     "TRCAS_4H": {
@@ -1907,12 +2079,19 @@
     "TURGG_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 29.64
+=======
+      "price": 360.5
+>>>>>>> Stashed changes
     }
   },
   "last_sent_ema": {
     "AKENR_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 13.54
+=======
+      "price": 13.49
+>>>>>>> Stashed changes
     },
     "ALCTL_4H": {
       "time": "2026-06-23T10:00:00",
@@ -2120,7 +2299,11 @@
     },
     "OZYSR_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 12.34
+=======
+      "price": 12.31
+>>>>>>> Stashed changes
     },
     "RTALB_4H": {
       "time": "2026-06-24T10:00:00",
@@ -2164,6 +2347,7 @@
     },
     "DENGE_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 2.65
     },
     "DOCO_4H": {
@@ -2193,6 +2377,25 @@
     "USAK_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 1.73
+=======
+      "price": 2.64
+    },
+    "DOCO_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 12052.5
+    },
+    "HUNER_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 3.96
+    },
+    "KCAER_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 15.45
+    },
+    "USAK_4H": {
+      "time": "2026-06-25T06:00:00",
+      "price": 1.71
+>>>>>>> Stashed changes
     }
   },
   "last_sent_macd_cross": {
@@ -2386,7 +2589,11 @@
     },
     "IZMDC_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 8.86
+=======
+      "price": 8.84
+>>>>>>> Stashed changes
     },
     "KARTN_4H": {
       "time": "2026-06-25T06:00:00",
@@ -2830,15 +3037,22 @@
     },
     "GLBMD_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 13.68
+=======
+      "price": 13.63
+>>>>>>> Stashed changes
     },
     "GOZDE_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 24.6
+<<<<<<< Updated upstream
     },
     "SANFM_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 9.46
+=======
+>>>>>>> Stashed changes
     }
   },
   "last_sent_h8": {
@@ -3252,7 +3466,11 @@
     },
     "KARTN_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 143.4
+=======
+      "price": 143.2
+>>>>>>> Stashed changes
     },
     "RTALB_4H": {
       "time": "2026-06-24T14:00:00",
@@ -3342,6 +3560,7 @@
       "time": "2026-06-25T06:00:00",
       "price": 42.6
     },
+<<<<<<< Updated upstream
     "ASTOR_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 307.0
@@ -3350,13 +3569,19 @@
       "time": "2026-06-25T06:00:00",
       "price": 13.68
     },
+=======
+>>>>>>> Stashed changes
     "GOZDE_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 24.6
     },
     "HUNER_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 3.97
+=======
+      "price": 3.96
+>>>>>>> Stashed changes
     }
   },
   "last_sent_i9": {
@@ -3490,7 +3715,11 @@
     },
     "USAK_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 1.73
+=======
+      "price": 1.71
+>>>>>>> Stashed changes
     },
     "ANGEN_4H": {
       "time": "2026-06-24T10:00:00",
@@ -3546,11 +3775,15 @@
     },
     "DENGE_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 2.65
     },
     "GLBMD_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 13.68
+=======
+      "price": 2.64
+>>>>>>> Stashed changes
     },
     "HATEK_4H": {
       "time": "2026-06-25T06:00:00",
@@ -3558,11 +3791,15 @@
     },
     "HUNER_4H": {
       "time": "2026-06-25T06:00:00",
+<<<<<<< Updated upstream
       "price": 3.97
     },
     "SEKUR_4H": {
       "time": "2026-06-25T06:00:00",
       "price": 12.57
+=======
+      "price": 3.96
+>>>>>>> Stashed changes
     }
   },
   "last_successful_scans": {
@@ -3578,6 +3815,10 @@
     "2026-06-24_18:30": "2026-06-24 18:38:00",
     "2026-06-25_09:30": "2026-06-25 09:45:24",
     "2026-06-25_11:00": "2026-06-25 11:11:56",
+<<<<<<< Updated upstream
     "2026-06-25_12:30": "2026-06-25 12:39:05"
+=======
+    "2026-06-25_12:30": "2026-06-25 12:45:22"
+>>>>>>> Stashed changes
   }
 }
