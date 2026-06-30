@@ -5,6 +5,12 @@
       "price": 25.66,
       "detected_at": "2026-06-29T15:38:41+03:00",
       "is_full": true
+    },
+    "TDGYO_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 15.9,
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "is_full": false
     }
   },
   "last_sent_rsi": {
@@ -27,6 +33,31 @@
       "time": "2026-06-30T06:00:00",
       "price": 10.83,
       "detected_at": "2026-06-30T11:00:23+03:00"
+    },
+    "AGHOL_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 34.08,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DCTTR_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 13.27,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DMRGD_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 11.42,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "MANAS_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 31.06,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "TRCAS_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 42.96,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     }
   },
   "last_sent_new_scan": {
@@ -46,9 +77,9 @@
       "detected_at": "2026-06-29T15:38:41+03:00"
     },
     "KARTN_4H": {
-      "time": "2026-06-29T10:00:00",
-      "price": 147.1,
-      "detected_at": "2026-06-29T15:38:41+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 154.3,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "KLSYN_4H": {
       "time": "2026-06-29T10:00:00",
@@ -66,14 +97,14 @@
       "detected_at": "2026-06-29T15:38:41+03:00"
     },
     "DCTTR_4H": {
-      "time": "2026-06-29T14:00:00",
-      "price": 12.94,
-      "detected_at": "2026-06-29T18:39:03+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 13.27,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "DMRGD_4H": {
-      "time": "2026-06-29T14:00:00",
-      "price": 11.24,
-      "detected_at": "2026-06-29T18:39:03+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 11.42,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "HEDEF_4H": {
       "time": "2026-06-29T14:00:00",
@@ -104,6 +135,46 @@
       "time": "2026-06-30T06:00:00",
       "price": 268.25,
       "detected_at": "2026-06-30T11:00:23+03:00"
+    },
+    "AGHOL_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 34.08,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "BIGTK_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 260.0,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "BSOKE_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 37.16,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DAGI_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 8.69,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DOFRB_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 186.5,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "MAALT_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 1263.0,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "MANAS_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 31.06,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "OZYSR_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 12.89,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     }
   },
   "last_sent_rsi_macd": {
@@ -126,6 +197,21 @@
       "time": "2026-06-30T06:00:00",
       "price": 10.83,
       "detected_at": "2026-06-30T11:00:23+03:00"
+    },
+    "AGHOL_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 34.08,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DMRGD_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 11.42,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "MANAS_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 31.06,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     }
   },
   "last_sent_ema": {
@@ -165,9 +251,9 @@
       "detected_at": "2026-06-29T18:39:03+03:00"
     },
     "DMRGD_4H": {
-      "time": "2026-06-29T14:00:00",
-      "price": 11.24,
-      "detected_at": "2026-06-29T18:39:03+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 11.42,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "UFUK_4H": {
       "time": "2026-06-29T14:00:00",
@@ -198,13 +284,63 @@
       "time": "2026-06-30T06:00:00",
       "price": 10.04,
       "detected_at": "2026-06-30T11:00:23+03:00"
+    },
+    "AGHOL_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 34.08,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "BINHO_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 10.65,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "BSOKE_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 37.16,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DAGI_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 8.69,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DOFRB_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 186.5,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "MAALT_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 1263.0,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "MANAS_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 31.06,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "OZYSR_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 12.89,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "PLTUR_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 24.04,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "SEGMN_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 55.2,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     }
   },
   "last_sent_macd_cross": {
     "KARTN_4H": {
-      "time": "2026-06-29T10:00:00",
-      "price": 147.1,
-      "detected_at": "2026-06-29T15:38:41+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 154.3,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "KRONT_4H": {
       "time": "2026-06-29T10:00:00",
@@ -212,9 +348,9 @@
       "detected_at": "2026-06-29T15:38:41+03:00"
     },
     "DCTTR_4H": {
-      "time": "2026-06-29T14:00:00",
-      "price": 12.94,
-      "detected_at": "2026-06-29T18:39:03+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 13.27,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "HEDEF_4H": {
       "time": "2026-06-29T14:00:00",
@@ -225,13 +361,33 @@
       "time": "2026-06-30T06:00:00",
       "price": 10.83,
       "detected_at": "2026-06-30T11:00:23+03:00"
+    },
+    "AGHOL_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 34.08,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "BIGTK_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 260.0,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DMRGD_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 11.42,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "MANAS_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 31.06,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     }
   },
   "last_sent_h8": {
     "KARTN_4H": {
-      "time": "2026-06-29T10:00:00",
-      "price": 147.1,
-      "detected_at": "2026-06-29T15:38:41+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 154.3,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "CEOEM_4H": {
       "time": "2026-06-29T14:00:00",
@@ -239,14 +395,39 @@
       "detected_at": "2026-06-29T18:39:03+03:00"
     },
     "DCTTR_4H": {
-      "time": "2026-06-29T14:00:00",
-      "price": 12.94,
-      "detected_at": "2026-06-29T18:39:03+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 13.27,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "HEDEF_4H": {
       "time": "2026-06-29T14:00:00",
       "price": 153.5,
       "detected_at": "2026-06-29T18:39:03+03:00"
+    },
+    "AGHOL_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 34.08,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "BIGTK_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 260.0,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DMRGD_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 11.42,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "MANAS_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 31.06,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "TRCAS_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 42.96,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     }
   },
   "last_sent_i9": {
@@ -256,9 +437,9 @@
       "detected_at": "2026-06-29T15:38:41+03:00"
     },
     "KARTN_4H": {
-      "time": "2026-06-29T10:00:00",
-      "price": 147.1,
-      "detected_at": "2026-06-29T15:38:41+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 154.3,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "CEOEM_4H": {
       "time": "2026-06-29T14:00:00",
@@ -266,14 +447,34 @@
       "detected_at": "2026-06-29T18:39:03+03:00"
     },
     "DCTTR_4H": {
-      "time": "2026-06-29T14:00:00",
-      "price": 12.94,
-      "detected_at": "2026-06-29T18:39:03+03:00"
+      "time": "2026-06-30T06:00:00",
+      "price": 13.27,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     },
     "HEDEF_4H": {
       "time": "2026-06-29T14:00:00",
       "price": 153.5,
       "detected_at": "2026-06-29T18:39:03+03:00"
+    },
+    "AGHOL_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 34.08,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "BIGTK_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 260.0,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "DMRGD_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 11.42,
+      "detected_at": "2026-06-30T11:54:07+03:00"
+    },
+    "MANAS_4H": {
+      "time": "2026-06-30T06:00:00",
+      "price": 31.06,
+      "detected_at": "2026-06-30T11:54:07+03:00"
     }
   },
   "signal_history": [
@@ -725,6 +926,407 @@
       "bar_time": "2026-06-30T06:00:00",
       "detected_at": "2026-06-30T11:00:23+03:00",
       "price": 10.04
+    },
+    {
+      "symbol": "AGHOL",
+      "period": "4H",
+      "strategy": "rsi",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 34.08
+    },
+    {
+      "symbol": "AGHOL",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 34.08
+    },
+    {
+      "symbol": "AGHOL",
+      "period": "4H",
+      "strategy": "rsi_macd",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 34.08
+    },
+    {
+      "symbol": "AGHOL",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 34.08
+    },
+    {
+      "symbol": "AGHOL",
+      "period": "4H",
+      "strategy": "macd_cross",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 34.08
+    },
+    {
+      "symbol": "AGHOL",
+      "period": "4H",
+      "strategy": "h8",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 34.08
+    },
+    {
+      "symbol": "AGHOL",
+      "period": "4H",
+      "strategy": "i9",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 34.08
+    },
+    {
+      "symbol": "BIGTK",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 260.0
+    },
+    {
+      "symbol": "BIGTK",
+      "period": "4H",
+      "strategy": "macd_cross",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 260.0
+    },
+    {
+      "symbol": "BIGTK",
+      "period": "4H",
+      "strategy": "h8",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 260.0
+    },
+    {
+      "symbol": "BIGTK",
+      "period": "4H",
+      "strategy": "i9",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 260.0
+    },
+    {
+      "symbol": "BINHO",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 10.65
+    },
+    {
+      "symbol": "BSOKE",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 37.16
+    },
+    {
+      "symbol": "BSOKE",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 37.16
+    },
+    {
+      "symbol": "DAGI",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 8.69
+    },
+    {
+      "symbol": "DAGI",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 8.69
+    },
+    {
+      "symbol": "DCTTR",
+      "period": "4H",
+      "strategy": "rsi",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 13.27
+    },
+    {
+      "symbol": "DCTTR",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 13.27
+    },
+    {
+      "symbol": "DCTTR",
+      "period": "4H",
+      "strategy": "macd_cross",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 13.27
+    },
+    {
+      "symbol": "DCTTR",
+      "period": "4H",
+      "strategy": "h8",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 13.27
+    },
+    {
+      "symbol": "DCTTR",
+      "period": "4H",
+      "strategy": "i9",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 13.27
+    },
+    {
+      "symbol": "DMRGD",
+      "period": "4H",
+      "strategy": "rsi",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 11.42
+    },
+    {
+      "symbol": "DMRGD",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 11.42
+    },
+    {
+      "symbol": "DMRGD",
+      "period": "4H",
+      "strategy": "rsi_macd",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 11.42
+    },
+    {
+      "symbol": "DMRGD",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 11.42
+    },
+    {
+      "symbol": "DMRGD",
+      "period": "4H",
+      "strategy": "macd_cross",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 11.42
+    },
+    {
+      "symbol": "DMRGD",
+      "period": "4H",
+      "strategy": "h8",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 11.42
+    },
+    {
+      "symbol": "DMRGD",
+      "period": "4H",
+      "strategy": "i9",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 11.42
+    },
+    {
+      "symbol": "DOFRB",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 186.5
+    },
+    {
+      "symbol": "DOFRB",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 186.5
+    },
+    {
+      "symbol": "KARTN",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 154.3
+    },
+    {
+      "symbol": "KARTN",
+      "period": "4H",
+      "strategy": "macd_cross",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 154.3
+    },
+    {
+      "symbol": "KARTN",
+      "period": "4H",
+      "strategy": "h8",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 154.3
+    },
+    {
+      "symbol": "KARTN",
+      "period": "4H",
+      "strategy": "i9",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 154.3
+    },
+    {
+      "symbol": "MAALT",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 1263.0
+    },
+    {
+      "symbol": "MAALT",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 1263.0
+    },
+    {
+      "symbol": "MANAS",
+      "period": "4H",
+      "strategy": "rsi",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 31.06
+    },
+    {
+      "symbol": "MANAS",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 31.06
+    },
+    {
+      "symbol": "MANAS",
+      "period": "4H",
+      "strategy": "rsi_macd",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 31.06
+    },
+    {
+      "symbol": "MANAS",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 31.06
+    },
+    {
+      "symbol": "MANAS",
+      "period": "4H",
+      "strategy": "macd_cross",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 31.06
+    },
+    {
+      "symbol": "MANAS",
+      "period": "4H",
+      "strategy": "h8",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 31.06
+    },
+    {
+      "symbol": "MANAS",
+      "period": "4H",
+      "strategy": "i9",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 31.06
+    },
+    {
+      "symbol": "OZYSR",
+      "period": "4H",
+      "strategy": "new_scan",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 12.89
+    },
+    {
+      "symbol": "OZYSR",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 12.89
+    },
+    {
+      "symbol": "PLTUR",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 24.04
+    },
+    {
+      "symbol": "SEGMN",
+      "period": "4H",
+      "strategy": "ema",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 55.2
+    },
+    {
+      "symbol": "TDGYO",
+      "period": "4H",
+      "strategy": "smi_macd",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 15.9,
+      "is_full": false
+    },
+    {
+      "symbol": "TRCAS",
+      "period": "4H",
+      "strategy": "rsi",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 42.96
+    },
+    {
+      "symbol": "TRCAS",
+      "period": "4H",
+      "strategy": "h8",
+      "bar_time": "2026-06-30T06:00:00",
+      "detected_at": "2026-06-30T11:54:07+03:00",
+      "price": 42.96
     }
   ],
   "last_successful_scans": {
@@ -733,6 +1335,7 @@
     "2026-06-29_17:15": "2026-06-29 17:25:56",
     "2026-06-29_18:30": "2026-06-29 18:39:43",
     "2026-06-30_09:30": "2026-06-30 09:39:34",
-    "2026-06-30_10:15": "2026-06-30 11:00:36"
+    "2026-06-30_10:15": "2026-06-30 11:00:36",
+    "2026-06-30_11:45": "2026-06-30 11:54:25"
   }
 }
